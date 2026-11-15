@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "a tutorial for intro to backend",
+  "keywords": [
+    "express",
+    "node",
+    "javascript",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/mhoumann87/node-express-mongo-backend-tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/mhoumann87/node-express-mongo-backend-tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoumann87/node-express-mongo-backend-tutorial.git"
+  },
+  "license": "MIT",
+  "author": "Michael Houmann",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
